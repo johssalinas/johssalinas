@@ -1,9 +1,18 @@
 ![](assets/Bottom_up.svg)
 
-<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30" />, I'm Johs Salinas</h1>
-<h3 align="center">A passionate Software Developer from Colombia.</h3>
+### Hey <D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/ ><img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30" />
+------------------
+<h3 align="center">Passionate Software Developer from Colombia.</h3>
 
-- 🌱 I’m currently learning **Flutter**
+```jsx
+<Bio 
+  name= { "Johs Salinas" }
+  course = { "Systems Engineering" }
+  college= { "Unidades Tecnológicas de Santander" } 
+/>
+```
+
+- 🌱 Currently learning **Flutter**
 
 <!--   my-icons -->
 <p align="center">
